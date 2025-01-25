@@ -1,0 +1,9 @@
+{
+    "change": 5.0,
+    "products": [
+        { "name": "Premium Cola", "price": 1.5, "stock": 10 },
+        { "name": "Makava", "price": 1.4, "stock": 3 },
+        { "name": "Wostok", "price": 0.8, "stock": 5 },
+        { "name": "Club Mate", "price": 1.0, "stock": 1 }
+    ]
+}
