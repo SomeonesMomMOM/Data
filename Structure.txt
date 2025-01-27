@@ -1,0 +1,9 @@
+.
+├── AUTHORS
+├── LICENSE
+├── mathgame/
+│   ├── __init__.py
+│   ├── game.py
+│   ├── math_is_fun.py
+├── README
+├── test_mathgame.py
